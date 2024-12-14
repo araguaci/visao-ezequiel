@@ -23,10 +23,12 @@
   },
   "dependencies": {
     "@slidev/cli": "0.50.0-beta.5",
+    "@slidev/theme-default": "^0.25.0",
     "@tresjs/cientos": "^4.0.0",
     "@tresjs/core": "^4.3.1",
     "@types/three": "^0.169.0",
     "@vueuse/core": "^11.2.0",
+    "playwright-chromium": "^1.49.1",
     "three": "^0.170.0",
     "vue": "^3.5.12"
   },
@@ -40,5 +42,6 @@
     "sass": "^1.80.6",
     "slidev-theme-penguin": "^2.3.1",
     "sponsorkit": "^0.16.2"
-  }
+  },
+  "packageManager": "pnpm@9.12.3+sha512.cce0f9de9c5a7c95bef944169cc5dfe8741abfb145078c0d508b868056848a87c81e626246cb60967cbd7fd29a6c062ef73ff840d96b3c86c40ac92cf4a813ee"
 }

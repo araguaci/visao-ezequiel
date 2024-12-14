@@ -1,10 +1,14 @@
-![repository-banner.png](https://res.cloudinary.com/alvarosaburido/image/upload/v1612193118/as-portfolio/Repo_Banner_kexozw.png)
+# O chamado e a primeira visão de Ezequiel
 
-# AS Slidev template 🐧
+> **Ezequiel 1:1-3:27**
+> 
+> **Ezequiel tem uma visão e é chamado para ser o mensageiro de Deus para os judeus cativos na Babilônia.**
+
+## AS Slidev template 🐧
 
 > Personal template for my conference presentations using [Slidev](https://github.com/slidevjs/slidev)
 
-## Usage
+### Usage
 
 ```bash
 npx degit alvarosabu/talk-template talk-name-01-2023
